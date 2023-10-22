@@ -1,4 +1,8 @@
 # abhishek-demo
 This is my first Git repository.
 <br>
-Author-abhishek
+Hi,abhishek jangir.
+<br>
+I'm intrested in web development.
+<br>
+currently learning c lang.
