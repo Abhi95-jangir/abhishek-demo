@@ -1,3 +1,3 @@
 # abhishek-demo
-This is my first Git repository
-author-abhishek
+This is my first Git repository.
+Author-abhishek
