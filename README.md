@@ -5,4 +5,4 @@ Hi,abhishek jangir.
 <br>
 I'm intrested in web development.
 <br>
-currently learning c lang.
+currently learning c language.
