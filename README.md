@@ -5,4 +5,5 @@ Hi,abhishek jangir.
 <br>
 I'm intrested in web development.
 <br>
-currently learning c language.
+currently learning c language.<br> 
+pursuing b.tech from GEC Jhalawar.
