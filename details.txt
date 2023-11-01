@@ -1,5 +1,4 @@
-my detail
-
+ # my details #
  1.abhishek jangir
  2.2nd year b.tech student
  3.pursuing b.tech from GECJ
