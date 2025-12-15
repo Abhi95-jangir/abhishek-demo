@@ -1,8 +1,0 @@
- # my details #
- 1.abhishek jangir
- 2.2nd year b.tech student
- 3.pursuing b.tech from GECJ
- 4.intersted in Web development
- 5.intrested in App development
- 6. This is my second assignment given by yagesh sharma.
-   This is modification on branch1...
